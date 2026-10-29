@@ -5,7 +5,7 @@
    if it exists; otherwise, return −1.
    Input: An array of distinct scores sorted from highest to lowest and a target score.
    Output: The index of the target score, or −1 if it is not present.
-   Constraint: 1 ≤ n ≤ 106
+   Constraint: 1 ≤ n ≤ 106--------
 */
 #include <iostream>
 using namespace std;
